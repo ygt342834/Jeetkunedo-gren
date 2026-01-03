@@ -1,0 +1,53 @@
+/* style.css */
+
+/* Genel sayfa */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #ff4d4d;
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Navigation menu */
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #f5f5f5;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff4d4d;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #f5f5f5;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
